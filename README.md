@@ -13,7 +13,7 @@ This tool provides a simple graphical interface to merge the contents of multipl
 1. Select the source folder containing the text files to be merged.
 2. Choose the save location for the merged file.
 3. Optionally, check the box to include filenames as separators.
-4. Click the "Merge" button to start the merging process.
+4. Click the "Start Merge" button to start the merging process.
 5. Once the merging is complete, the merged file will be available at the specified location.
 
 ## Setup Instructions
